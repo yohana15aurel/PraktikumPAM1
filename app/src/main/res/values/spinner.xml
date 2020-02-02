@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="size_entries">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Bogor</item>
+
+
+    </string-array>
+
+
+</resources>
